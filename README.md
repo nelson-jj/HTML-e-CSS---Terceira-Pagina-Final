@@ -1,5 +1,5 @@
 # HTML-e-CSS---Terceira-Pagina-Final
-HTML e CSS - Terceira Aula: Trabalhando com Responsividade (Finalização da Página)
+HTML e CSS - Terceira Aula: Trabalhando com Responsividade (Finalização do Portfolio)
 
   - Continuação das páginas anteriores;
   - Adicionando ajustes para diferentes tamanhos de tela;
